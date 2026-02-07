@@ -43,6 +43,6 @@ HR-tech platforms, resume screening automation tools, recruitment decision-suppo
 This project is a production-ready prototype built for educational and demonstration purposes. It can be extended with embedding-based models, databases, authentication systems, cloud storage, and large language model integrations for enterprise-scale deployment.
 
 ## Author
-[Tejas R M]
+Tejas R M
 
 If you find this project useful, consider starring the repository.
